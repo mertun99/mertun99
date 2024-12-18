@@ -14,7 +14,7 @@ I’m a **veterinary medicine student** with a strong passion for **technology**
 - Engaging in **open-source projects** and collaborations that combine my medical expertise with tech solutions for real-world impact.
 
 ### 💻 **Technologies & Tools:**
-- **Languages**: Python, JavaScript
+- **Languages**: Python, C, JavaScript, HTML
 - **AI/ML Tools**: TensorFlow, Keras, Scikit-learn, OpenCV
 - **Web Development**: Flask, Django
 - **Data Science**: Pandas, NumPy, Matplotlib

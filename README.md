@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👨‍💻🐾
+# Hello, I'm Martin 👨‍💻🐾
 
 I’m a **veterinary medicine student** with a strong passion for **technology** and its applications in **healthcare**."I began building my technical skills with CS50 and have continued to expand my knowledge in areas like **Artificial Intelligence (AI)** and its potential to innovate in both medical and veterinary fields. I am focused on combining my knowledge of healthcare with cutting-edge technology to improve diagnostic tools, treatment methods, and healthcare systems.
 

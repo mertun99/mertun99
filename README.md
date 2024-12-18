@@ -23,7 +23,7 @@ I’m a **veterinary medicine student** with a strong passion for **technology**
 - **Cloud**: AWS, Google Cloud Platform
 
 ### 🌍 **Connect with Me:**
-- 📧 Email: [your.email@example.com](mailto:martingroma1@gmail.com)
+- 📧 Email: [martingroma1@gmail.com](mailto:martingroma1@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ### 📊 **GitHub Stats:**

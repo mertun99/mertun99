@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👨‍💻🐾
 
-I’m a **veterinary medicine student** with a strong passion for **technology** and its applications in **healthcare**. My journey in technology began with completing **CS50** and has expanded into exploring **Artificial Intelligence (AI)** and its potential to innovate in both medical and veterinary fields. I am focused on combining my knowledge of healthcare with cutting-edge technology to improve diagnostic tools, treatment methods, and healthcare systems.
+I’m a **veterinary medicine student** with a strong passion for **technology** and its applications in **healthcare**."I began building my technical skills with CS50 and have continued to expand my knowledge in areas like **Artificial Intelligence (AI)** and its potential to innovate in both medical and veterinary fields. I am focused on combining my knowledge of healthcare with cutting-edge technology to improve diagnostic tools, treatment methods, and healthcare systems.
 
 ### 🌟 **About Me:**
 - 🎓 **Background** in veterinary medicine, with a deep understanding of healthcare and animal care.

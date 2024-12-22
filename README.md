@@ -14,8 +14,8 @@ I’m a **veterinary medicine student** with a strong passion for **technology**
 - Engaging in **open-source projects** and collaborations that combine my medical expertise with tech solutions for real-world impact.
 
 ### 💻 **Technologies & Tools:**
-- **Languages**: Python, C, JavaScript, HTML
-- **AI/ML Tools**: TensorFlow, Keras, Scikit-learn, OpenCV
+- **Languages**: Python, C, Java, HTML, JavaScript
+- **AI/ML Tools**: TensorFlow, Keras, Scikit-learn, OpenCV, Kaggle
 - **Web Development**: Flask, Django
 - **Data Science**: Pandas, NumPy, Matplotlib
 - **Version Control**: Git, GitHub
@@ -26,5 +26,4 @@ I’m a **veterinary medicine student** with a strong passion for **technology**
 - 📧 Email: [martingroma1@gmail.com](mailto:martingroma1@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
-### 📊 **GitHub Stats:**
-![
+

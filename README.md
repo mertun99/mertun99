@@ -3,7 +3,7 @@
 I’m a **veterinary medicine student** with a strong passion for **technology** and its applications in **healthcare**. I began building my technical skills with CS50 and have continued to expand my knowledge in areas like **Artificial Intelligence (AI)** and its potential to innovate in both medical and veterinary fields. I am focused on combining my knowledge of healthcare with cutting-edge technology to improve diagnostic tools, treatment methods, and healthcare systems.
 
 ### 🌟 **About Me:**
-- 🎓 **Background** in veterinary medicine, with a deep understanding of healthcare and animal care.
+- 🎓 **Background** in veterinary medicine, with a deep understanding of healthcare and diagnostic approach.
 - 📚 **CS50 Certified**: Completed **CS50: Introduction to Computer Science** (Harvard University), which provided a strong foundation in programming and computer science principles.
 - 🤖 **AI Enthusiast**: Currently studying **CS50's Introduction to Artificial Intelligence** to explore how AI can enhance medical diagnostics, treatment recommendations, and overall healthcare delivery.
 - 💡 Focused on integrating **technology** and **medicine** to improve patient care, streamline processes, and drive innovation in healthcare systems.

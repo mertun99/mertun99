@@ -24,6 +24,4 @@ I’m a **veterinary medicine student** with a strong passion for **technology**
 
 ### 🌍 **Connect with Me:**
 - 📧 Email: [martingroma1@gmail.com](mailto:martingroma1@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
 

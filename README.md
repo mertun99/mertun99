@@ -1,27 +1,26 @@
-# Hello, I'm Martin 👨‍💻🐾
+# Martin Groma
 
-I’m a **veterinary medicine student** with a strong passion for **technology** and its applications in **healthcare**. I began building my technical skills with CS50 and have continued to expand my knowledge in areas like **Artificial Intelligence (AI)** and its potential to innovate in both medical and veterinary fields. I am focused on combining my knowledge of healthcare with cutting-edge technology to improve diagnostic tools, treatment methods, and healthcare systems.
+I am a final-year veterinary medicine student with a background in biological sciences and a growing focus on computer science. My interests lie at the intersection of technology and healthcare - particularly in bioinformatics, pharmaceutics, research & development and medical innovation.
 
-### 🌟 **About Me:**
-- 🎓 **Background** in veterinary medicine, with a deep understanding of healthcare and diagnostic approach.
-- 📚 **CS50 Certified**: Completed **CS50: Introduction to Computer Science** (Harvard University), which provided a strong foundation in programming and computer science principles.
-- 🤖 **AI Enthusiast**: Currently studying **CS50's Introduction to Artificial Intelligence** to explore how AI can enhance medical diagnostics, treatment recommendations, and overall healthcare delivery.
-- 💡 Focused on integrating **technology** and **medicine** to improve patient care, streamline processes, and drive innovation in healthcare systems.
+# I love to learn more about bioinformatics, medical technology, and AI in healthcare.
 
-### 🔧 **What I'm Working On:**
-- Exploring **AI applications** in healthcare, including predictive modeling and machine learning to enhance diagnostic accuracy and decision-making.
-- Developing projects that integrate **data science** and **AI** to address challenges in **veterinary care** and **healthcare technologies**.
-- Engaging in **open-source projects** and collaborations that combine my medical expertise with tech solutions for real-world impact.
+I am currently completing Harvard’s CS50: Introduction to Artificial Intelligence, I'm building technical skills in Python, C, SQL, and full-stack web development.
 
-### 💻 **Technologies & Tools:**
-- **Languages**: Python, C, Java, HTML/CSS, JavaScript
-- **AI/ML Tools**: TensorFlow, Keras, Scikit-learn, OpenCV, Kaggle
-- **Web Development**: Flask, Django
-- **Data Science**: Pandas, NumPy, Matplotlib
-- **Version Control**: Git, GitHub
-- **Databases**: MySQL, SQLite
-- **Cloud**: AWS, Google Cloud Platform
 
-### 🌍 **Connect with Me:**
-- 📧 Email: [martingroma1@gmail.com](mailto:martingroma1@gmail.com)
+## Skills
 
+- Programming: Python, C, SQL, HTML/CSS, JavaScript, Flask  
+- Scientific Research, Analytical Thinking, Problem-Solving  
+- Languages: Slovak (C2), Czech (C2), English (C1), German (A2)
+
+## Education
+
+- Doctor of Veterinary Medicine (in progress)  
+  University of Veterinary Sciences, Brno  
+- CS50: Introduction to Computer Science  
+  Harvard University (2023–2024)
+
+## Contact
+
+Email: martingroma1@gmail.com  
+GitHub: [github.com/mertun99](https://github.com/mertun99)

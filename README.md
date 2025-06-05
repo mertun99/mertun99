@@ -1,6 +1,6 @@
 # Martin Groma
 
-I am a veterinary medicine graduate with a background in biological sciences and a growing focus on computer science. My interests lie at the intersection of technology and healthcare - particularly in bioinformatics, pharmaceutics, research & development and medical innovation.
+I am a veterinary medicine graduate with a growing focus on computer science. My interests lie at the intersection of technology and healthcare - particularly in bioinformatics, pharmaceutics, research & development and medical innovation.
 
 ## I would love to learn more about these fields.
 
@@ -15,7 +15,7 @@ I am currently completing Harvard’s CS50: Introduction to Artificial Intellige
 ## Education
 
 - Doctor of Veterinary Medicine 
-  University of Veterinary Sciences, Brno  
+  University of Veterinary Sciences, Brno (2019-2025)
 - CS50: Introduction to Computer Science  
   Harvard University (2023–2024)
 

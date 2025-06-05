@@ -15,9 +15,9 @@ I am currently completing Harvard’s CS50: Introduction to Artificial Intellige
 ## Education
 
 - Doctor of Veterinary Medicine 
-  University of Veterinary Sciences, Brno (2019-2025)
+  University of Veterinary Sciences, Brno
 - CS50: Introduction to Computer Science  
-  Harvard University (2023–2024)
+  Harvard University
 
 ## Contact
 

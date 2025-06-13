@@ -1,6 +1,6 @@
 # Martin Groma
 
-I am a veterinary medicine graduate with a growing focus on computer science. My interests lie at the intersection of technology and healthcare - particularly in bioinformatics, pharmaceutics, research & development and medical innovation.
+I am doctor of veterinary medicine with a growing focus on computer science. My interests lie at the intersection of technology and healthcare - particularly in bioinformatics, pharmaceutics, research & development and medical innovation.
 
 ## I would love to learn more about these fields.
 

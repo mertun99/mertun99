@@ -4,7 +4,7 @@ A doctor of veterinary medicine with a growing focus on computer science. My int
 
 ## I would love to learn more about these fields.
 
-I am currently completing Harvard’s CS50: Introduction to Artificial Intelligence, I'm building technical skills in Python, C, SQL, and full-stack web development.
+I am currently completing Harvard’s CS50: Introduction to Artificial Intelligence, I'm building technical skills in Python, C, SQL, AI & ML and full-stack development.
 
 ## Skills
 

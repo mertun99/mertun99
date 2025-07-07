@@ -4,12 +4,12 @@ Veterinary Doctor with additional training in IT from Harvard University. Intere
 
 ## I would love to learn more about these fields.
 
-Currently completing Harvard’s CS50: Introduction to Artificial Intelligence.
+I am currently completing Harvard’s CS50: Introduction to Artificial Intelligence.
 
 
 ## Skills
 
-- Programming: Python, C, SQL, R, HTML/CSS, JavaScript, Flask  
+- Programming: Python, C, SQL, R, and full stack (HTML/CSS, JavaScript, Flask..)
 - Scientific Research, Analytical Thinking, Problem-Solving  
 - Languages: Slovak (C2), Czech (C2), English (C1), German (A2)
 

@@ -1,14 +1,15 @@
 # Martin Groma
 
-A doctor of veterinary medicine with a growing focus on computer science. My interests lie at the intersection of technology and healthcare - particularly in bioinformatics, pharmaceutics, research & development and medical innovation.
+Veterinary Doctor with additional training in IT from Harvard University. Interested in bioinformatics, pharmaceuticals, R&D, medical technologies, and healthcare innovation.
 
 ## I would love to learn more about these fields.
 
-I am currently completing Harvard’s CS50: Introduction to Artificial Intelligence, I'm building technical skills in Python, C, SQL, AI & ML and full-stack development.
+I am currently completing Harvard’s CS50: Introduction to Artificial Intelligence.
+
 
 ## Skills
 
-- Programming: Python, C, SQL, HTML/CSS, JavaScript, Flask  
+- Programming: Python, C, SQL, R, HTML/CSS, JavaScript, Flask  
 - Scientific Research, Analytical Thinking, Problem-Solving  
 - Languages: Slovak (C2), Czech (C2), English (C1), German (A2)
 

@@ -4,7 +4,7 @@ Veterinary Doctor with additional training in IT from Harvard University. Intere
 
 ## I would love to learn more about these fields.
 
-I am currently completing Harvard’s CS50: Introduction to Artificial Intelligence.
+Currently completing Harvard’s CS50: Introduction to Artificial Intelligence.
 
 
 ## Skills

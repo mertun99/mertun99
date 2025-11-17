@@ -1,16 +1,23 @@
-## Hi there 👋
+# Martin Groma
+Currently working as Junior project manager (HTA)
 
-<!--
-**mertun99/mertun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Veterinary Doctor with additional training in IT from Harvard University. Interested in bioinformatics, programming, medical technologies, and healthcare innovation.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: Python, C, SQL, and full stack (HTML/CSS, JavaScript, Flask..)
+- Scientific Research, Analytical Thinking, Problem-Solving  
+- Languages: Slovak (C2), Czech (C2), English (C1), German (A2)
+
+## Education
+
+- Doctor of Veterinary Medicine 
+  University of Veterinary Sciences, Brno
+- CS50: Introduction to Computer Science  
+  Harvard University
+
+## Contact
+
+Email: martingroma1@gmail.com  
+GitHub: [github.com/mertun99](https://github.com/mertun99)

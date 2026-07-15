@@ -1,4 +1,4 @@
-# Martin
+# Martin G.
 
 ## About me
 I have background in medicine and strong interested in applying data, computation, technology and programming to biological and healthcare-related questions. I complemented my medical background with additional IT and data training through and currently work in Health Technology Assessment (HTA) & Market Access consulting.

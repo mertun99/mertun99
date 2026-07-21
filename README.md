@@ -1,7 +1,7 @@
 # Martin G.
 
 ## About me
-I have background in medicine and strong interested in applying data, computation, technology and programming to biological and healthcare-related questions. I complemented my medical background with additional IT and data training and currently work in Health Technology Assessment (HTA) & Market Access consulting.
+I have background in medicine and strong interested in applying data, computation, technology to biological and healthcare-related questions. I complemented my medical background with additional IT and data training and currently work in Health Technology Assessment (HTA) & Market Access consulting.
 
 My interests lie at the intersection of biology, healthcare, technology, and data science. I am particularly interested in:
 - Computational approaches in life sciences
@@ -12,7 +12,7 @@ My interests lie at the intersection of biology, healthcare, technology, and dat
 ## Skills
 
 - Programming: Python, SQL and full stack fundamentals (HTML/CSS, Flask..)
-- Data handling, Analytical Thinking, Problem-Solving and Workflow automation
+- Data handling, Analytical Thinking, Problem-Solving
 - Languages: Slovak (C2), Czech (C2), English (C1), German (A2)
 
 ## Education
